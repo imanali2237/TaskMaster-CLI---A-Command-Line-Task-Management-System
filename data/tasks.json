@@ -1,0 +1,26 @@
+[
+  {
+    "userId": "user1",
+    "taskId": 1768858668021,
+    "taskName": "Complete Project",
+    "description": "Finish organizing the Task Master CLI",
+    "time": "2026-01-25",
+    "completed": false
+  },
+  {
+    "userId": "user1",
+    "taskId": 1768858677705,
+    "taskName": "Learn TypeScript",
+    "description": "Complete TypeScript fundamentals",
+    "time": "2026-01-30",
+    "completed": true
+  },
+  {
+    "userId": "user1",
+    "taskId": 1768858695017,
+    "taskName": "Learn TypeScript",
+    "description": "Complete TypeScript fundamentals",
+    "time": "2026-01-30",
+    "completed": true
+  }
+]
